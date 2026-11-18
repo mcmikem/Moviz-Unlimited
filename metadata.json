@@ -1,0 +1,6 @@
+{
+  "name": "HDToday",
+  "description": "Ad-free cinema and Ugandan VJ translated movie streaming catalog with instant playback and live vault discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
